@@ -11,15 +11,15 @@ The smaller the number, the faster the search, but the less accurate it is
 ## Tolerance
 The smaller the number, the slower the search, but the more accurate it is
 
-![Alt text](/1.png)
+![Alt text](/img/1.png)
 
-![Alt text](/2.png)
+![Alt text](/img/2.png)
 
-![Alt text](/3.png)
+![Alt text](/img/3.png)
 
-![Alt text](/4.png)
+![Alt text](/img/4.png)
 
-![Alt text](/5.png)
+![Alt text](/img/5.png)
 
-![Alt text](/6.png)
+![Alt text](/img/6.png)
 
