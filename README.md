@@ -1,6 +1,11 @@
 # Face_search_in_video
 Face search in video using opencv
 
+
+<pre><code>pip install -r requirements.txt
+</code></pre>
+
+
 ## Choose Image folder:
 In this section, you must select the folder containing the images you want to search.
 
