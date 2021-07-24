@@ -6,6 +6,10 @@ import csv
 import time
 import PySimpleGUI as sg
 
+####################################################################################
+########################## Create by Saman Talle ###################################
+####################################################################################
+
 class SearchPepole():
     def __init__(self, folderOfPerson="", sizeD=0.25, toleranceD=0.55,folderName=''):
         self.folderOfPerson = folderOfPerson
